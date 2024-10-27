@@ -57,9 +57,14 @@ Provide details on how to use the project, sample commands, or typical workflows
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+<!-- Option 3: With table layout -->
+| Assigment Information |
+|:------------------:|
+| <img src="https://github.com/user-attachments/assets/0daf2379-1868-4fde-aac6-8f0a7c1cbfb4" alt="License Case1" width="100%" style="border-radius: 5px;" /> |
+| This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. |
